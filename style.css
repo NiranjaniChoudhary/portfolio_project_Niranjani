@@ -70,7 +70,7 @@ section {
     height: 100vh;
     display: flex;
     align-items: center;
-    background-image: url(Image/bg.jpeg);
+    background-image: url(./bg.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -719,4 +719,5 @@ section {
     pointer-events: none;
     opacity: 0;
     transition: all 0.3s ease;
+
 }
